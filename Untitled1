@@ -1,0 +1,7 @@
+@book = Book.find(params[:id])
+title, body, user_id
+"title" = "aaa"
+
+@book.title => "aaa"
+@book.id => "2"
+@book.user_id => "3"
